@@ -10,16 +10,16 @@ Building scalable systems, cloud-native applications, and real-world software so
 
 ---
 
-## 🚀 About Me
-- 🎓 Master's in Computer Science @ University of Bern  
-- 💼 Student Assistant @ BORIS (Open Science, Uni Bern)  
-- ⚙️ Experience with Java, Python, Angular & cloud systems  
-- ☁️ Skilled in AWS, Docker, CI/CD pipelines  
-- 🧠 Interested in scalable systems, web apps & emerging tech (XR/MR, robotics)
+##  About Me
+- Master's in Computer Science @ University of Bern  
+- Student Assistant @ BORIS (Open Science, Uni Bern)  
+- Experience with Java, Python, Angular & cloud systems  
+- Skilled in AWS, Docker, CI/CD pipelines  
+- Interested in scalable systems, web apps & emerging tech (XR/MR, robotics)
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -68,14 +68,14 @@ Building scalable systems, cloud-native applications, and real-world software so
 
 ---
 
-## 📚 What I'm Doing
-- 🚀 Building full-stack cloud applications  
-- ☁️ Learning system design & DevOps  
-- 💡 Exploring AI, XR/MR & emerging tech  
+##  What I'm Doing
+- Building full-stack cloud applications  
+- Learning system design & DevOps  
+- Exploring AI, XR/MR & emerging tech  
 
 ---
 
-## 🎯 Fun Facts
+## Fun Facts
 - 🇮🇳 → 🇨🇭 Studying & working in Switzerland  
 - 🎨 Enjoy UI/UX design (Figma)  
 - 🌍 Passionate about real-world tech solutions  
