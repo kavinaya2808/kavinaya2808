@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Kavinaya 👋</h1>
 
 <p align="center">
-💻 Full-Stack Software Developer | ☁️ Cloud & DevOps Enthusiast | 🇨🇭 Currently based in Switzerland (open to roles in EU)
+💻 Full-Stack Software Developer | XR, Robotics and Simulation | 🇨🇭 Currently based in Switzerland (open to roles in EU)
 </p>
 
 <p align="center">
@@ -13,9 +13,9 @@ Building scalable systems, cloud-native applications, and real-world software so
 ##  About Me
 - Master's in Computer Science @ University of Bern  
 - Student Assistant @ BORIS (Open Science, Uni Bern)  
-- Experience with Java, Python, Angular & cloud systems  
-- Skilled in AWS, Docker, CI/CD pipelines  
-- Interested in scalable systems, web apps & emerging tech (XR/MR, robotics)
+- Experience with Java, Python, c#, C++, Angular & ROS
+- Skilled in AWS, Docker, CI/CD pipelines
+- Interested in scalable systems, emerging tech such as XR/MR and robotics
 
 ---
 
@@ -28,6 +28,13 @@ Building scalable systems, cloud-native applications, and real-world software so
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
+### XR, Robotics and Simulations
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
+![OpenXR](https://img.shields.io/badge/OpenXR-%230078D7.svg?style=for-the-badge&logo=openxr&logoColor=white)
+![Oculus](https://img.shields.io/badge/Oculus-%231A1A1A.svg?style=for-the-badge&logo=meta&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### AI/ML & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -71,7 +78,7 @@ Building scalable systems, cloud-native applications, and real-world software so
 ##  What I'm Doing
 - Building full-stack cloud applications  
 - Learning system design & DevOps  
-- Exploring AI, XR/MR & emerging tech  
+- Exploring Robotics, XR/MR & emerging tech  
 
 ---
 
