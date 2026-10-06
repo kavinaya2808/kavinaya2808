@@ -1,110 +1,85 @@
-<h1 align="center">Hey there! I'm Kavinaya 👋</h1>
+<h1 align="center">Hi, I'm Kavinaya 👋</h1>
 
 <p align="center">
-💻 Full-Stack Software Developer | XR, Robotics and Simulation | 🇨🇭 Currently based in Switzerland (open to roles in EU)
+Robotics & XR software engineer · MSc Computer Science @ University of Bern · Switzerland 🇨🇭
 </p>
 
 <p align="center">
-Building scalable systems, cloud-native applications, and real-world software solutions.
+I build the software that lets people see, guide and trust robots — from multi-robot mapping in ROS 2 to mixed reality interfaces for drone swarms.
+</p>
+
+<p align="center">
+  <a href="https://kavinayakumarchokkappan.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/kavinaya-kumarchokkappan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:kavinaya2409@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-##  About Me
-- Master's in Computer Science @ University of Bern  
-- Student Assistant @ BORIS (Open Science, Uni Bern)  
-- Experience with Java, Python, c#, C++, Angular & ROS
-- Skilled in AWS, Docker, CI/CD pipelines
-- Interested in scalable systems, emerging tech such as XR/MR and robotics
+## About me
+
+- 🎓 Finishing my MSc in Computer Science at the University of Bern (December 2026)
+- 🤖 hands on experience with mobile robots, SLAM, navigation and multi-robot systems in ROS 2
+- 🥽 Building mixed reality interfaces (Unity, Meta Quest 3) for controlling and monitoring robots
+- 🛠️ Part-time software developer at BORIS, the University of Bern's open science portal, where I maintain production Java & Angular systems
+- 🎨 Came to engineering from the arts, so I care a lot about how people actually use what I build
 
 ---
 
-## Tech Stack & Tools
+## What I've been working on
 
-### Languages
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+**📄 MR-SLAM: Mixed Reality Multi-Robot Fleet Supervision** · *ICRA 2026 Workshop* · [arXiv](https://arxiv.org/abs/2605.16432)
+Three TurtleBot3 robots map a space on their own while their maps merge live over ROS 2. An operator supervises the whole fleet through a Meta Quest 3 headset with passthrough and spatially anchored robot status.
+`ROS 2` `SLAM` `map merging` `Unity` `Meta Quest 3`
 
-### XR, Robotics and Simulations
-![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![ROS2](https://img.shields.io/badge/ROS2-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
-![OpenXR](https://img.shields.io/badge/OpenXR-%230078D7.svg?style=for-the-badge&logo=openxr&logoColor=white)
-![Oculus](https://img.shields.io/badge/Oculus-%231A1A1A.svg?style=for-the-badge&logo=meta&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+**🚁 [XR-UAV-Swarm](https://github.com/kavinaya2808/XR-UAV-Swarm)** · *MSc thesis*
+A mixed reality layer for controlling and monitoring a UAV swarm. A simulated Crazyflie swarm runs on ROS 2 Jazzy + Crazyswarm2 and is controlled from Unity.
+`ROS 2 Jazzy` `Crazyswarm2` `Gazebo` `PX4 SITL` `Unity`
+
+**🦾 MR Interface for Robot Programming**
+Programming a robot by pointing and placing things in mixed reality instead of writing code.
+`Unity` `C#` `MRTK` `ROS` `Meta Quest 3`
+
+**📚 BORIS Portal** · *University of Bern*
+Production work on the university's research repository (DSpace 7 / DSpace-CRIS): features, bug fixes and keeping a live system running for real users.
+`Java` `Angular` `DSpace-CRIS`
+
+---
+
+## Tools I am using
+
+**Robotics & simulation**
+![ROS2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-F58113?style=for-the-badge&logo=gazebo&logoColor=white)
+![PX4](https://img.shields.io/badge/PX4-0A0A0A?style=for-the-badge&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+**XR & 3D**
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Meta Quest](https://img.shields.io/badge/Meta_Quest_3-1C1E20?style=for-the-badge&logo=meta&logoColor=white)
+![OpenXR](https://img.shields.io/badge/OpenXR-0078D7?style=for-the-badge&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Web Development
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-
-
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github_actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+**Software & tooling**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ---
 
-##  What I'm Doing
-- Building full-stack cloud applications  
-- Learning system design & DevOps  
-- Exploring Robotics, XR/MR & emerging tech  
+## Right now
 
----
+- 🚧 Finishing my thesis on mixed reality control for UAV swarms
+- 📈 Getting deeper into C++ and robot navigation (Nav2, costmaps, planners)
+- 🔍 Looking for robotics, drone and XR engineering roles in Switzerland & the EU, starting early 2027
 
-## Fun Facts
-- 🇮🇳 → 🇨🇭 Studying & working in Switzerland  
-- 🎨 Enjoy UI/UX design (Figma)  
-- 🌍 Passionate about real-world tech solutions  
-
----
-
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/kavinaya-kumarchokkappan">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:kavinaya2409@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://instagram.com/Kavinaya.kumarchokkappan">
-    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" />
-  </a>
-</p>
-
----
-
-
-<p align="center">
-⭐ Open to opportunities in Software Development, XR interaction Engineering and  Cloud 
-</p>
+<p align="center"><i>Robots that people can understand and trust — that's what I want to build.</i></p>
