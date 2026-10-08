@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kavinaya 👋</h1>
+<h1 align="center">Hi, I'm Kavinaya </h1>
 
 <p align="center">
 Robotics & XR software engineer · MSc Computer Science @ University of Bern · Switzerland 🇨🇭
@@ -18,29 +18,29 @@ I build the software that lets people see, guide and trust robots — from multi
 
 ## About me
 
-- 🎓 Finishing my MSc in Computer Science at the University of Bern (December 2026)
-- 🤖 hands on experience with mobile robots, SLAM, navigation and multi-robot systems in ROS 2
-- 🥽 Building mixed reality interfaces (Unity, Meta Quest 3) for controlling and monitoring robots
-- 🛠️ Part-time software developer at BORIS, the University of Bern's open science portal, where I maintain production Java & Angular systems
-- 🎨 Came to engineering from the arts, so I care a lot about how people actually use what I build
+-  Finishing my MSc in Computer Science at the University of Bern (December 2026)
+-  hands on experience with mobile robots, SLAM, navigation and multi-robot systems in ROS 2
+-  Building mixed reality interfaces (Unity, Meta Quest 3) for controlling and monitoring robots
+-  Part-time software developer at BORIS, the University of Bern's open science portal, where I maintain production Java & Angular systems
+-  Came to engineering from the arts, so I care a lot about how people actually use what I build
 
 ---
 
 ## What I've been working on
 
-**📄 MR-SLAM: Mixed Reality Multi-Robot Fleet Supervision** · *ICRA 2026 Workshop* · [arXiv](https://arxiv.org/abs/2605.16432)
+** MR-SLAM: Mixed Reality Multi-Robot Fleet Supervision** · *ICRA 2026 Workshop* · [arXiv](https://arxiv.org/abs/2605.16432)
 Three TurtleBot3 robots map a space on their own while their maps merge live over ROS 2. An operator supervises the whole fleet through a Meta Quest 3 headset with passthrough and spatially anchored robot status.
 `ROS 2` `SLAM` `map merging` `Unity` `Meta Quest 3`
 
-**🚁 [XR-UAV-Swarm](https://github.com/kavinaya2808/XR-UAV-Swarm)** · *MSc thesis*
+** [XR-UAV-Swarm](https://github.com/kavinaya2808/XR-UAV-Swarm)** · *MSc thesis*
 A mixed reality layer for controlling and monitoring a UAV swarm. A simulated Crazyflie swarm runs on ROS 2 Jazzy + Crazyswarm2 and is controlled from Unity.
 `ROS 2 Jazzy` `Crazyswarm2` `Gazebo` `PX4 SITL` `Unity`
 
-**🦾 MR Interface for Robot Programming**
+** MR Interface for Robot Programming**
 Programming a robot by pointing and placing things in mixed reality instead of writing code.
 `Unity` `C#` `MRTK` `ROS` `Meta Quest 3`
 
-**📚 BORIS Portal** · *University of Bern*
+** BORIS Portal** · *University of Bern*
 Production work on the university's research repository (DSpace 7 / DSpace-CRIS): features, bug fixes and keeping a live system running for real users.
 `Java` `Angular` `DSpace-CRIS`
 
@@ -78,8 +78,8 @@ Production work on the university's research repository (DSpace 7 / DSpace-CRIS)
 
 ## Right now
 
-- 🚧 Finishing my thesis on mixed reality control for UAV swarms
-- 📈 Getting deeper into C++ and robot navigation (Nav2, costmaps, planners)
-- 🔍 Looking for robotics, drone and XR engineering roles in Switzerland & the EU, starting early 2027
+-  Finishing my thesis on mixed reality control for UAV swarms
+-  Getting deeper into C++ and robot navigation (Nav2, costmaps, planners)
+-  Looking for robotics, drone and XR engineering roles in Switzerland & the EU, starting early 2027
 
 <p align="center"><i>Robots that people can understand and trust — that's what I want to build.</i></p>
