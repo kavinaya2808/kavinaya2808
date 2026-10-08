@@ -28,19 +28,18 @@ I build the software that lets people see, guide and trust robots — from multi
 
 ## What I've been working on
 
-** MR-SLAM: Mixed Reality Multi-Robot Fleet Supervision** · *ICRA 2026 Workshop* · [arXiv](https://arxiv.org/abs/2605.16432)
+**MR-SLAM: Mixed Reality Multi-Robot Fleet Supervision** · *ICRA 2026 Workshop* · [arXiv](https://arxiv.org/abs/2605.16432)
 Three TurtleBot3 robots map a space on their own while their maps merge live over ROS 2. An operator supervises the whole fleet through a Meta Quest 3 headset with passthrough and spatially anchored robot status.
 `ROS 2` `SLAM` `map merging` `Unity` `Meta Quest 3`
 
-** [XR-UAV-Swarm](https://github.com/kavinaya2808/XR-UAV-Swarm)** · *MSc thesis*
+**[XR-UAV-Swarm](https://github.com/kavinaya2808/XR-UAV-Swarm)** · *MSc thesis*
 A mixed reality layer for controlling and monitoring a UAV swarm. A simulated Crazyflie swarm runs on ROS 2 Jazzy + Crazyswarm2 and is controlled from Unity.
 `ROS 2 Jazzy` `Crazyswarm2` `Gazebo` `PX4 SITL` `Unity`
-
-** MR Interface for Robot Programming**
+**MR Interface for Robot Programming**
 Programming a robot by pointing and placing things in mixed reality instead of writing code.
 `Unity` `C#` `MRTK` `ROS` `Meta Quest 3`
 
-** BORIS Portal** · *University of Bern*
+**BORIS Portal** · *University of Bern*
 Production work on the university's research repository (DSpace 7 / DSpace-CRIS): features, bug fixes and keeping a live system running for real users.
 `Java` `Angular` `DSpace-CRIS`
 
